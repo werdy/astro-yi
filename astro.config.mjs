@@ -21,7 +21,8 @@ function customRehypeLazyLoadImage() {
 }
 
 export default defineConfig({
-  site: 'https://astro-yi-nu.vercel.app',
+  site: 'https://werdy.github.io',
+  base: 'werdy/astro-yi',
   integrations: [sitemap(), tailwind(), solid(), expressiveCode({
     plugins: [pluginLineNumbers()],
     themes: ["github-dark", "github-light"],

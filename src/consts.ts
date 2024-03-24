@@ -19,7 +19,7 @@ export const site = {
   title: 'Astro Theme Yi', // required
   favicon: '/favicon.svg', // required
   description: 'Welcome to my independent blog website! ',
-  author: "Astro-Yi", // required
+  author: "HJ", // required
   avatar: '/avatar.png', // required
   motto: 'Actions speak louder than words.',
   url: 'https://astro-yi-nu.vercel.app',
